@@ -1,0 +1,63 @@
+type = "card"
+title = "Projects"
+description = "A selection of projects I have built."
+
+[[items]]
+title = "BotZhipin"
+subtitle = "Multi-agent · Java · Python"
+date = "2024"
+content = "Multi-agent job assistant with group-chat support and one-click OpenClaw deployment. [botzhipin.work](https://www.botzhipin.work/)"
+
+[[items]]
+title = "MiningGoat"
+subtitle = "Data Marketplace · Full-stack"
+date = "2024"
+content = "Data marketplace with paper recommendations, an OPC open-source community, and a knowledge-base workflow. [washuyang.com](https://washuyang.com/)"
+
+[[items]]
+title = "QuantBlocks"
+subtitle = "Multi-agent · Quant · Python"
+date = "2024"
+content = "Multi-agent platform for stock research and quantitative analysis. [quantblocks.tech](https://quantblocks.tech/)"
+
+[[items]]
+title = "EdVance"
+subtitle = "AI · Study Abroad · Full-stack"
+date = "2024"
+content = "Study-abroad recommendation system covering school matching, essay drafting, and AI-trace detection. [edvance.pro](https://edvance.pro/)"
+
+[[items]]
+title = "DinoAR"
+subtitle = "Unity · C# · AR"
+date = "2023"
+content = "AR museum experience built around dinosaur fossils. [GitHub](https://github.com/xiangri678/DinoAR)"
+
+[[items]]
+title = "HeritageMemory"
+subtitle = "ARKit · RealityKit · visionOS"
+date = "2023"
+content = "AR app pairing the 24 solar terms with the 12 zodiac animals. [GitHub](https://github.com/xiangri678/HeritageMemory)"
+
+[[items]]
+title = "Kinect-StandardCam-WebRTC"
+subtitle = "WebRTC · JavaScript"
+date = "2023"
+content = "Volumetric-video conferencing system — undergraduate thesis project. [GitHub](https://github.com/xiangri678/Kinect-StandardCam-WebRTC)"
+
+[[items]]
+title = "PyDSL_APPLE"
+subtitle = "Python · DSL"
+date = "2023"
+content = "Domain-specific language for automated customer-service bots. [GitHub](https://github.com/xiangri678/PyDSL_APPLE)"
+
+[[items]]
+title = "AlgoSwiftly"
+subtitle = "Swift"
+date = "2022"
+content = "Algorithm deep-dives implemented in Swift. [GitHub](https://github.com/xiangri678/AlgoSwiftly)"
+
+[[items]]
+title = "AlgoJolt"
+subtitle = "Java"
+date = "2022"
+content = "Algorithm deep-dives implemented in Java. [GitHub](https://github.com/xiangri678/AlgoJolt)"
