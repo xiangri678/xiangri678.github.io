@@ -1,0 +1,15 @@
+[[news]]
+date = "AI Agent"
+content = "BotZhipin — 多智能体求职助手，支持群聊协作与一键 OpenClaw 部署。botzhipin.work"
+
+[[news]]
+date = "数据"
+content = "MiningGoat — 数据市场，集成论文推荐、OPC 开源社区与知识库工作流。washuyang.com"
+
+[[news]]
+date = "量化"
+content = "QuantBlocks — 股票研究与量化分析多智能体平台。quantblocks.tech"
+
+[[news]]
+date = "教育"
+content = "EdVance — 留学推荐系统，覆盖院校匹配、文书辅助与 AI 痕迹检测。edvance.pro"

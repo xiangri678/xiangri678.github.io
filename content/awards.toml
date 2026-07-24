@@ -1,27 +1,27 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Honors and recognitions."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Graduate of Beijing Municipality"
+subtitle = "Beijing Municipal Education Commission"
 date = "2025"
-content = "Description of the award."
+content = "Awarded to top graduates across Beijing universities."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Encouragement Scholarship"
+subtitle = "Ministry of Education, China"
 date = "2024"
-content = "Description of the award."
+content = "National-level scholarship awarded to students with outstanding academic performance and financial need."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National \"Internet+\" Innovation & Entrepreneurship Competition — Bronze Award"
+subtitle = "Ministry of Education, China"
 date = "2023"
-content = "Description of the award."
+content = "National-level award for innovation and entrepreneurship projects."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "University Merit Student & Outstanding Youth League Member"
+subtitle = "Beijing University of Posts and Telecommunications"
+date = "2021 – 2025"
+content = "Awarded Merit Student (三好学生), Outstanding Youth League Member, Second-Class Scholarship, and Outstanding Individual in Social Practice during undergraduate studies."

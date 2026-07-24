@@ -1,7 +1,15 @@
 [[news]]
-date = "2025-11"
-content = "Our work has been accepted by a prestigious journal 🎉"
+date = "2026-07"
+content = "Actively working on my M.S. thesis: AI-driven cultural-tourism agent systems grounded in SfM and SLAM."
 
 [[news]]
-date = "2025-09"
-content = "Starting my PhD at the University of Example"
+date = "2026-05"
+content = "Building AR apps that tell Chinese cultural stories — dinosaur fossil museums, the 24 solar terms, and beyond."
+
+[[news]]
+date = "2026-03"
+content = "Exploring QLoRA + MLX fine-tuning on Apple Silicon, diving deeper into LLM memory architectures."
+
+[[news]]
+date = "2025-12"
+content = "Full-stack Java enterprise backend development ongoing, shipping production systems."

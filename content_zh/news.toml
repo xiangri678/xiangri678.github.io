@@ -1,7 +1,15 @@
 [[news]]
-date = "2025-11"
-content = "我们的工作被顶级期刊接收了 🎉"
+date = "2026-07"
+content = "全力推进硕士论文：基于 SfM 与 SLAM 的 AI 文旅 Agent 系统。"
 
 [[news]]
-date = "2025-09"
-content = "在某某大学开始博士学习"
+date = "2026-05"
+content = "持续打磨 AR 应用，用空间计算讲述中国文化故事——恐龙化石博物馆、二十四节气等。"
+
+[[news]]
+date = "2026-03"
+content = "探索 QLoRA + MLX 在 Apple Silicon 上的微调，深入研究 LLM 记忆架构。"
+
+[[news]]
+date = "2025-12"
+content = "Java 全栈企业级后端开发持续推进，多个生产系统已上线。"

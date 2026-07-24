@@ -3,9 +3,11 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "AI Agent Systems",
+  "LLM Memory & Multi-Agent Workflows",
+  "Spatial Computing (visionOS / ARKit)",
+  "SfM & SLAM",
+  "Backend Engineering (Java / Python)"
 ]
 
 [[sections]]
@@ -15,15 +17,14 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 5
+id = "live_projects"
+type = "list"
+title = "Live Projects"
+source = "live_projects.toml"
 
 [[sections]]
 id = "news"
 type = "list"
-title = "News"
+title = "What I'm Working On"
 source = "news.toml"
 
