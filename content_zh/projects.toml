@@ -1,0 +1,63 @@
+type = "card"
+title = "项目"
+description = "我参与或主导过的部分项目。"
+
+[[items]]
+title = "BotZhipin"
+subtitle = "多智能体 · Java · Python"
+date = "2024"
+content = "多智能体求职助手，支持群聊协作与一键 OpenClaw 部署。[botzhipin.work](https://www.botzhipin.work/)"
+
+[[items]]
+title = "MiningGoat"
+subtitle = "数据市场 · 全栈"
+date = "2024"
+content = "数据市场，集成论文推荐、OPC 开源社区与知识库工作流。[washuyang.com](https://washuyang.com/)"
+
+[[items]]
+title = "QuantBlocks"
+subtitle = "多智能体 · 量化 · Python"
+date = "2024"
+content = "股票研究与量化分析多智能体平台。[quantblocks.tech](https://quantblocks.tech/)"
+
+[[items]]
+title = "EdVance"
+subtitle = "AI · 留学 · 全栈"
+date = "2024"
+content = "留学推荐系统，覆盖院校匹配、文书辅助与 AI 痕迹检测。[edvance.pro](https://edvance.pro/)"
+
+[[items]]
+title = "DinoAR"
+subtitle = "Unity · C# · AR"
+date = "2023"
+content = "围绕恐龙化石构建的 AR 博物馆体验。[GitHub](https://github.com/xiangri678/DinoAR)"
+
+[[items]]
+title = "HeritageMemory"
+subtitle = "ARKit · RealityKit · visionOS"
+date = "2023"
+content = "将二十四节气与十二生肖结合的 AR 应用。[GitHub](https://github.com/xiangri678/HeritageMemory)"
+
+[[items]]
+title = "Kinect-StandardCam-WebRTC"
+subtitle = "WebRTC · JavaScript"
+date = "2023"
+content = "体积视频会议系统——本科毕业设计项目。[GitHub](https://github.com/xiangri678/Kinect-StandardCam-WebRTC)"
+
+[[items]]
+title = "PyDSL_APPLE"
+subtitle = "Python · DSL"
+date = "2023"
+content = "面向自动客服机器人的领域特定语言。[GitHub](https://github.com/xiangri678/PyDSL_APPLE)"
+
+[[items]]
+title = "AlgoSwiftly"
+subtitle = "Swift"
+date = "2022"
+content = "Swift 算法深度实践。[GitHub](https://github.com/xiangri678/AlgoSwiftly)"
+
+[[items]]
+title = "AlgoJolt"
+subtitle = "Java"
+date = "2022"
+content = "Java 算法深度实践。[GitHub](https://github.com/xiangri678/AlgoJolt)"
